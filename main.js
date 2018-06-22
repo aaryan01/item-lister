@@ -74,7 +74,7 @@ function filterItems(e){
 			item.style.display = 'block';
 		}
 		else {
-			item.style.display = 'name';
+			item.style.display = 'none';
 		}
 		
 		});
